@@ -9,3 +9,5 @@ In der ersten Lektion, erklärte uns der Lehrer etwas über Topologien, Peripher
 In Gruppenarbeit(2er Gruppe), lösten wir den ersten Auftrag. Wir mussten ein Verbinungsplan für ein Haus erstellen.
 ![image](https://github.com/user-attachments/assets/b4e60c03-782f-42b0-8b44-696d86ab7116)
 
+# Auftrag 2: 
+Während dem zweiten Auftrages mussten wir verschieden Kabel anschauen und wählen welche am besten sind.
