@@ -11,3 +11,7 @@ In Gruppenarbeit(2er Gruppe), lösten wir den ersten Auftrag. Wir mussten ein Ve
 
 # Auftrag 2: 
 Während dem zweiten Auftrages mussten wir verschieden Kabel anschauen und wählen welche am besten sind.
+
+# Auftrag 3:
+Der Dritte Auftrafg bestand darin einen Verbindungsplan, mit der ersten Aufgabe, für ein Haus zu erstellen.
+![image](https://github.com/user-attachments/assets/6752ca3b-1a25-422a-838a-2794aaa273c8)
