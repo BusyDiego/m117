@@ -45,3 +45,8 @@ Während dem ersten Auftrag, mussten wir eine Art Rätsel zu IP-Adressen lösen.
 
 ![image](https://github.com/user-attachments/assets/356e059e-1936-4f1b-a889-2067cc28251b)
 
+# Auftrag 5
+
+![image](https://github.com/user-attachments/assets/a3b23651-bc92-41e0-ba09-690cf4e0a1eb)
+
+
