@@ -15,3 +15,21 @@ Während dem zweiten Auftrages mussten wir verschieden Kabel anschauen und wähl
 # Auftrag 3:
 Der Dritte Auftrafg bestand darin einen Verbindungsplan, mit der ersten Aufgabe, für ein Haus zu erstellen.
 ![image](https://github.com/user-attachments/assets/6752ca3b-1a25-422a-838a-2794aaa273c8)
+
+
+# 20.05.2025
+
+Herr Arnold erklärte uns etwas über die Adressen z.B. MAC und IP. Ausserdem lösten aufträge dazu.
+
+# Auftrag 1:
+Während dem ersten Auftrag, mussten wir eine Art Rätsel zu IP-Adressen lösen.
+
+10.0.0.0 - 255.255.255.255        Ehemals Class A-Adresse
+ 
+172.16 .0.0 - 172. 31.255.255     Ehemals Class B-Adresse
+ 
+192.168.0.0 - 192.168.255.255     Ehemals Class C-Adresse
+ 
+127.0.0.1                         Localnet oder Loopbackadresse (Eigener Rechner)
+169.254.0.0 - 169.254.255.255     ZEROCONF/APIPA-Adressen bei DHCP-Ausfall
+
