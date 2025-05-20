@@ -33,6 +33,11 @@ Während dem ersten Auftrag, mussten wir eine Art Rätsel zu IP-Adressen lösen.
 127.0.0.1                         Localnet oder Loopbackadresse (Eigener Rechner)
 169.254.0.0 - 169.254.255.255     ZEROCONF/APIPA-Adressen bei DHCP-Ausfall
 
+# Auftrag 2
+
+![image](https://github.com/user-attachments/assets/28eed9e0-8238-4029-902a-670484f90fae)
+
+
 # Auftrag 3
 
 ![image](https://github.com/user-attachments/assets/0bb07bc2-a322-47c2-8426-e526210f00f0)
