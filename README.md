@@ -66,4 +66,5 @@ Wir besprachen die Resultate von der Gruppenarbeit und lösten währendessen ein
 
 ![Screenshot 2025-06-10 101931](https://github.com/user-attachments/assets/faef42a6-cf9c-48a6-953e-de381a09fea3)
 
+![Screenshot 2025-06-10 102418](https://github.com/user-attachments/assets/b6041fcc-7a9b-4efe-ac29-9d0ac5a14b6c)
 
