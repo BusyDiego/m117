@@ -63,3 +63,7 @@ Prüfung nachgeholt und dann Gruppenarbeit gemacht, wir mussten in 3er Gruppen e
 # 10.06.2025
 
 Wir besprachen die Resultate von der Gruppenarbeit und lösten währendessen einen Auftrag. Danach gab es eine Präsentation über die Rechte in einem System mit kurzen Fragen dazwischen.
+
+![Screenshot 2025-06-10 101931](https://github.com/user-attachments/assets/faef42a6-cf9c-48a6-953e-de381a09fea3)
+
+
