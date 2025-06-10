@@ -50,3 +50,16 @@ Während dem ersten Auftrag, mussten wir eine Art Rätsel zu IP-Adressen lösen.
 ![image](https://github.com/user-attachments/assets/a3b23651-bc92-41e0-ba09-690cf4e0a1eb)
 
 
+# 27.05.2025
+
+Krank
+
+
+# 03.06.2025
+
+Prüfung nachgeholt und dann Gruppenarbeit gemacht, wir mussten in 3er Gruppen ein Netzwerk für eine Firma erstellen. Unser Resultat wurde dann benotet.
+
+
+# 10.06.2025
+
+Wir besprachen die Resultate von der Gruppenarbeit und lösten währendessen einen Auftrag. Danach gab es eine Präsentation über die Rechte in einem System mit kurzen Fragen dazwischen.
