@@ -95,4 +95,7 @@ Wir hatten wieder einen kurzen Vortrag über Wireshark und Verbindungen, danach 
 
 ![image](https://github.com/user-attachments/assets/f8d53af0-532d-4bb1-9fce-658973062af7)
 
+![image](https://github.com/user-attachments/assets/3c809d66-e8e4-45cf-b209-d2ec08eba0de)
+
+
 
