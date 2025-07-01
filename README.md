@@ -81,7 +81,11 @@ Wir mussten eine VM aufsetzen und dann verschiedene User einrichten mit verschie
 
 # 27.06.2025
 
-Wir hatten einen Vortrag über Wireshark und lösten verschiedene Aufträge dazu.
+Wir hatten einen Vortrag über Wireshark und lösten verschiedene Aufträge dazu. Ausserdem konnten wir noch mit einer Heatmap arbeiten.
+
+![Screenshot 2025-06-24 082535](https://github.com/user-attachments/assets/6a194016-5ebf-40a5-9701-775e95a6e53a)
+
+
 
 
 
