@@ -81,10 +81,14 @@ Wir mussten eine VM aufsetzen und dann verschiedene User einrichten mit verschie
 
 # 27.06.2025
 
-Wir hatten einen Vortrag über Wireshark und lösten aufträge dazu
+Wir hatten einen Vortrag über Wireshark und lösten verschiedene Aufträge dazu.
 
 
 
 # 01.06.2025
+
+Wir hatten wieder einen kurzen Vortrag über Wireshark und Verbindungen, danach hatten wir Zeit für eine Einzelarbeit mit Wireshark. 
+
+![image](https://github.com/user-attachments/assets/f8d53af0-532d-4bb1-9fce-658973062af7)
 
 
