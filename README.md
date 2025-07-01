@@ -72,3 +72,19 @@ Wir besprachen die Resultate von der Gruppenarbeit und lösten währendessen ein
 
 ![image](https://github.com/user-attachments/assets/c55cc465-391d-493d-811a-2a9cf37f7cff)
 
+
+# 17.06.2025
+
+Die Prüfung auf der VM gemacht zu den Rechten auf dem PC. Dafür hatten wir alle vier Lektionen Zeit. 
+
+Wir mussten eine VM aufsetzen und dann verschiedene User einrichten mit verschiedenen Rechten. Dann mussten wir am System weiter Sachen anpassen wie IP-Adresse wechseln. 
+
+# 27.06.2025
+
+Wir hatten einen Vortrag über Wireshark und lösten aufträge dazu
+
+
+
+# 01.06.2025
+
+
